@@ -10,10 +10,6 @@ If you are interested in knowing which tools I use, you can [check out my uses p
 
 ## 📬 Get in touch
 
-💎  [Personal site](https://jahir.dev)
-
-💌  [Contact me](https://jahir.dev/contact)
-
-🐦  [Twitter](https://twitter.com/jahirfiquitiva)
-
-💼  [LinkedIn](https://linkedin.com/in/jahirfiquitiva)
+* 💎  [Website](https://jahir.dev)
+* 🐦  [Twitter](https://twitter.com/jahirfiquitiva)
+* 💼  [LinkedIn](https://linkedin.com/in/jahirfiquitiva)
