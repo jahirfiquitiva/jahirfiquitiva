@@ -13,4 +13,4 @@ I consider myself a curious and inquisitive person and a continuous learner, so 
 
 If you are interested in knowing which tools I use, you can [check out my uses page](https://jahir.dev/uses).
 
-Find more about me on my [website](https://jahir.dev)
+Find more about me on my [website](https://jahir.dev) 💎
