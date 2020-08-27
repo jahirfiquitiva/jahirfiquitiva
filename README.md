@@ -9,7 +9,7 @@ I'm currently a Computer Science student.
 
 I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 
-If you are interested in knowing which tools I use, you can [check out my **uses page** ⚡️](https://jahir.dev/uses).
+If you are interested in knowing which tools I use, you can [check out my **uses page** ⚡️](https://jahir.dev/uses)
 
 **You can find me on:**
 
@@ -45,11 +45,31 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-  <i>Coming soon…</i>
+	<ul>
+		<li>
+			<a href="https://dev.to/jahirfiquitiva/publishing-a-react-component-package-on-npm-3dn5">Publishing a React component package on npm</a>
+		</li>
+		<li>
+			<a href="https://dev.to/jahirfiquitiva/direct-download-any-xcode-385o">Direct download any Xcode</a>
+		</li>
+		<li>
+			<a href="https://dev.to/jahirfiquitiva/publishing-a-react-component-package-on-npm-3dn5">Publishing a React component package on npm</a>
+		</li>
+		<li>
+			<a href="https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2">Taking a priori care of your future job</a>
+		</li>
+		<li>
+			<a href="https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec">What Google missed in their guidelines for Material Design iconography</a>
+		</li>
+		<li>
+			<a href="https://jahir.dev/blog"><i>More…</i></a>
+		</li>
+	</ul>
 </details>
 
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
-  <i>Coming soon…</i>
+	<img src="https://jf-gh-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
 </details>
