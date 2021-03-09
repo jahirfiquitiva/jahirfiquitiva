@@ -70,6 +70,6 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6&theme=react" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6&theme=react" alt="GitHub Top Languages" align="top"/>
 </details>
