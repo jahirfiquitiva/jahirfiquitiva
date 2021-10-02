@@ -1,4 +1,4 @@
-<img src="https://jahir.dev/assets/images/brand/logo-full-sm.png" width="144" align="right" hspace="0" />
+<img src="https://jahir.dev/static/images/brand/logo-full-sm.png" width="144" align="right" hspace="0" />
 
 👋 &nbsp;Hello, world! <br/> I am Jahir Fiquitiva
 ======
