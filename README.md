@@ -50,13 +50,16 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 	<br/>
 	<ul>
 		<li>
+			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
+		</li>
+		<li>
+			<a href="https://jahir.dev/blog/redesigning-my-website">Redesigning my website</a>
+		</li>
+		<li>
 			<a href="https://dev.to/jahirfiquitiva/publishing-a-react-component-package-on-npm-3dn5">Publishing a React component package on npm</a>
 		</li>
 		<li>
 			<a href="https://dev.to/jahirfiquitiva/direct-download-any-xcode-385o">Direct download any Xcode</a>
-		</li>
-		<li>
-			<a href="https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2">Taking a priori care of your future job</a>
 		</li>
 		<li>
 			<a href="https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec">What Google missed in their guidelines for Material Design iconography</a>
