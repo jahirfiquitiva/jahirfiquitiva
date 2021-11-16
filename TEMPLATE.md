@@ -83,4 +83,6 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 	<br/>
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
