@@ -48,7 +48,8 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-	<!--FEED:{"rows": 4, "select": "jahir", "raw": true }-->
+<!--FEED:{"rows": 4, "select": "jahir", "title": true}-->
+<!--FEED:{"rows": 4, "select": "jahir"}-->
 	<ul>
 		<li>
 			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
@@ -81,9 +82,9 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 	<br/>
-	⬆️ Pushed 2 commits to jahirfiquitiva/jahirfiquitiva
-🎉 Merged PR #1 in jahirfiquitiva/jahirfiquitiva
-💪 Opened PR #1 in jahirfiquitiva/jahirfiquitiva
-⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
-⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
+* ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
+* ⬆️ Pushed 2 commits to jahirfiquitiva/jahirfiquitiva
+* 🎉 Merged PR #1 in jahirfiquitiva/jahirfiquitiva
+* 💪 Opened PR #1 in jahirfiquitiva/jahirfiquitiva
+* ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 </details>
