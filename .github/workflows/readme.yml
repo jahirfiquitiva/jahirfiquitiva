@@ -22,6 +22,7 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed: "./FEEDS.json"
   build:
     runs-on: ubuntu-latest
     name: Update this repo README with recent activity
