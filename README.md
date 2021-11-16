@@ -48,7 +48,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-	<!--FEED:{"rows": 4, "select": "jahir"  }-->
+	<!--FEED:{"rows": 4, "select": "jahir", "raw": true }-->
 	<ul>
 		<li>
 			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
@@ -81,9 +81,9 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 	<br/>
-	* ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
-* 🗣 Commented on #575 in ben-rogerson/twin.macro
-* ❗️ Opened issue #10 in jahirfiquitiva/jahir.dev
-* ⬆️ Pushed 2 commits to jahirfiquitiva/jahir.dev
-* ❗️ Opened issue #9 in jahirfiquitiva/jahir.dev
+	⬆️ Pushed 2 commits to jahirfiquitiva/jahirfiquitiva
+🎉 Merged PR #1 in jahirfiquitiva/jahirfiquitiva
+💪 Opened PR #1 in jahirfiquitiva/jahirfiquitiva
+⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
+⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 </details>
