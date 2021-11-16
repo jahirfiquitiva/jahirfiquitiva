@@ -48,6 +48,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
+	<!--FEED:{"rows": 4, "select": "jahir"  }-->
 	<ul>
 		<li>
 			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
@@ -71,8 +72,18 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 </details>
 
 <details>
-	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity and Statistics</b></summary>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Statistics</b></summary>
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top or Most Used Languages" align="top"/>
+</details>
+
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
+	<br/>
+	* ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
+* 🗣 Commented on #575 in ben-rogerson/twin.macro
+* ❗️ Opened issue #10 in jahirfiquitiva/jahir.dev
+* ⬆️ Pushed 2 commits to jahirfiquitiva/jahir.dev
+* ❗️ Opened issue #9 in jahirfiquitiva/jahir.dev
 </details>
