@@ -48,7 +48,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-### 🔖 jahir
+### 📑 jahir
  > This is generated from feed provided [here](https://jahir.dev/feed.xml). Add it to your rss reader! 
 
  --- 
