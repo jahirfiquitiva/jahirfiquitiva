@@ -2,6 +2,7 @@ name: Updated latest blog posts
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: '0 0/12 * * *'
 
@@ -18,11 +19,11 @@ jobs:
         with:
           username: jahirfiquitiva
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed: "./FEEDS.json"
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          feed: "./FEEDS.json"
   build:
     runs-on: ubuntu-latest
     name: Update this repo README with recent activity
