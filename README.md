@@ -48,22 +48,10 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-### 📑 jahir
- > This is generated from feed provided [here](https://jahir.dev/feed.xml). Add it to your rss reader! 
-
- --- 
- |Index|Posts|Domain|
-|---|---|---|---|
-| 1 | [Taking a priori care of your future job](https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2)  | [medium.com](https://medium.com) |
-| 2 | [Building my website from scratch](https://jahir.dev/blog/building-website-from-scratch)  | [jahir.dev](https://jahir.dev) |
-| 3 | [Direct download any Xcode](https://jahir.dev/blog/download-xcode)  | [jahir.dev](https://jahir.dev) |
-| 4 | [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec)  | [stories.uplabs.com](https://stories.uplabs.com) |
-|Index|Posts|Domain|
-|---|---|---|---|
-| 1 | [Taking a priori care of your future job](https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2)  | [medium.com](https://medium.com) |
-| 2 | [Building my website from scratch](https://jahir.dev/blog/building-website-from-scratch)  | [jahir.dev](https://jahir.dev) |
-| 3 | [Direct download any Xcode](https://jahir.dev/blog/download-xcode)  | [jahir.dev](https://jahir.dev) |
-| 4 | [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec)  | [stories.uplabs.com](https://stories.uplabs.com) |
+1. [Taking a priori care of your future job](https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2) ([medium.com](https://medium.com))
+2. [Building my website from scratch](https://jahir.dev/blog/building-website-from-scratch) ([jahir.dev](https://jahir.dev))
+3. [Direct download any Xcode](https://jahir.dev/blog/download-xcode) ([jahir.dev](https://jahir.dev))
+4. [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec) ([stories.uplabs.com](https://stories.uplabs.com))
 	<ul>
 		<li>
 			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
