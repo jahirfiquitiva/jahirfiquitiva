@@ -88,5 +88,10 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 * ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 * ⬆️ Pushed 2 commits to jahirfiquitiva/jahirfiquitiva
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1) in [jahirfiquitiva/jahirfiquitiva](https://github.com/jahirfiquitiva/jahirfiquitiva)
+2. 💪 Opened PR [#1](https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1) in [jahirfiquitiva/jahirfiquitiva](https://github.com/jahirfiquitiva/jahirfiquitiva)
+3. 🗣 Commented on [#575](https://github.com/ben-rogerson/twin.macro/issues/575) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
+4. ❗️ Opened issue [#10](https://github.com/jahirfiquitiva/jahir.dev/issues/10) in [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev)
+5. ❗️ Opened issue [#9](https://github.com/jahirfiquitiva/jahir.dev/issues/9) in [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev)
 <!--END_SECTION:activity-->
 </details>
