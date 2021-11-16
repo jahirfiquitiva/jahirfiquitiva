@@ -48,8 +48,22 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 	<br/>
-<!--FEED:{"rows": 4, "select": "jahir", "title": true}-->
-<!--FEED:{"rows": 4, "select": "jahir"}-->
+### 🔖 jahir
+ > This is generated from feed provided [here](https://jahir.dev/feed.xml). Add it to your rss reader! 
+
+ --- 
+ |Index|Posts|Domain|
+|---|---|---|---|
+| 1 | [Taking a priori care of your future job](https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2)  | [medium.com](https://medium.com) |
+| 2 | [Building my website from scratch](https://jahir.dev/blog/building-website-from-scratch)  | [jahir.dev](https://jahir.dev) |
+| 3 | [Direct download any Xcode](https://jahir.dev/blog/download-xcode)  | [jahir.dev](https://jahir.dev) |
+| 4 | [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec)  | [stories.uplabs.com](https://stories.uplabs.com) |
+|Index|Posts|Domain|
+|---|---|---|---|
+| 1 | [Taking a priori care of your future job](https://medium.com/@jahirfiquitiva/taking-a-priori-care-of-your-future-job-7ed24cf18ed2)  | [medium.com](https://medium.com) |
+| 2 | [Building my website from scratch](https://jahir.dev/blog/building-website-from-scratch)  | [jahir.dev](https://jahir.dev) |
+| 3 | [Direct download any Xcode](https://jahir.dev/blog/download-xcode)  | [jahir.dev](https://jahir.dev) |
+| 4 | [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec)  | [stories.uplabs.com](https://stories.uplabs.com) |
 	<ul>
 		<li>
 			<a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a>
@@ -86,12 +100,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 * ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 * ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 * ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
-* ⬆️ Pushed 2 commits to jahirfiquitiva/jahirfiquitiva
+* ⬆️ Pushed 1 commit to jahirfiquitiva/jahirfiquitiva
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1) in [jahirfiquitiva/jahirfiquitiva](https://github.com/jahirfiquitiva/jahirfiquitiva)
-2. 💪 Opened PR [#1](https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1) in [jahirfiquitiva/jahirfiquitiva](https://github.com/jahirfiquitiva/jahirfiquitiva)
-3. 🗣 Commented on [#575](https://github.com/ben-rogerson/twin.macro/issues/575) in [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro)
-4. ❗️ Opened issue [#10](https://github.com/jahirfiquitiva/jahir.dev/issues/10) in [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev)
-5. ❗️ Opened issue [#9](https://github.com/jahirfiquitiva/jahir.dev/issues/9) in [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev)
 <!--END_SECTION:activity-->
 </details>
