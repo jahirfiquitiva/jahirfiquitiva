@@ -68,6 +68,6 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 	<br/>
 	<ol>
 		<!--{{activity}}-->
-		<a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a>
+		<li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 	</ol>
 </details>
