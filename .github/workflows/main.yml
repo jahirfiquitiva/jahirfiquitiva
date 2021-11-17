@@ -1,0 +1,27 @@
+name: Updated latest blog posts
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 0/12 * * *'
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    name: Job to update readme
+    steps:
+      # To use this repository's private action,
+      # you must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Update readme with activity and feed
+        uses: jahirfiquitiva/profile-readme@main
+        id: readme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          FEED_URL: 'https://jahir.dev/feed.xml'
+          FEED_TO_HTML: true
+          MAX_FEED_LINES: 4
+          ACTIVITY_TO_HTML: true
