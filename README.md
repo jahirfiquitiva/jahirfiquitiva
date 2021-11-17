@@ -49,7 +49,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="https://jahir.dev/blog/building-website-from-scratch">Building my website from scratch</a></li><li><a href="https://jahir.dev/blog/redesigning-my-website">Redesigning my website</a></li><li><a href="https://jahir.dev/blog/publishing-react-package">Publishing a React component package on npm</a></li><li><a href="https://jahir.dev/blog/uses">Which tools do I use?</a></li>
+<li><a href="undefined">Building my website from scratch</a></li><li><a href="undefined">Redesigning my website</a></li><li><a href="undefined">Publishing a React component package on npm</a></li><li><a href="undefined">Which tools do I use?</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -67,7 +67,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/0.1">New Tag</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/test">test</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/profile-readme">jahirfiquitiva/profile-readme</a> from <a href="https://github.com/actions-js/profile-readme">actions-js/profile-readme</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1">#1</a> in <a href="https://github.com/jahirfiquitiva/jahirfiquitiva">jahirfiquitiva/jahirfiquitiva</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1">#1</a> in <a href="https://github.com/jahirfiquitiva/jahirfiquitiva">jahirfiquitiva/jahirfiquitiva</a></li>
-<a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a>
+<li>❗️ Opened issue <a href="https://github.com/jpmonette/feed/issues/166">#166</a> in <a href="https://github.com/jpmonette/feed">jpmonette/feed</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/0.1">New Tag</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/test">test</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/profile-readme">jahirfiquitiva/profile-readme</a> from <a href="https://github.com/actions-js/profile-readme">actions-js/profile-readme</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1">#1</a> in <a href="https://github.com/jahirfiquitiva/jahirfiquitiva">jahirfiquitiva/jahirfiquitiva</a></li>
+<li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
