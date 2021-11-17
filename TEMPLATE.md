@@ -66,5 +66,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 	<br/>
-	<!--{{activity}}-->
+	<ol>
+		<!--{{activity}}-->
+	</ol>
 </details>
