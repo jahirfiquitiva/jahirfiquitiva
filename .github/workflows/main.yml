@@ -1,24 +1,20 @@
-name: Updated latest blog posts
+name: Update README
 
 on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0/12 * * *'
+    - cron: '0 0/4 * * *'
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
     name: Job to update readme
     steps:
-      - uses: bagbyte/use-private-action@v0.0.2
-        with:
-          private-action: jahirfiquitiva/profile-readme@main
-          private-action-token: ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}
       - name: Checkout
         uses: actions/checkout@v2
       - name: Update readme with activity and feed
-        uses: jahirfiquitiva/profile-readme@main
+        uses: jahirfiquitiva/profile-readme-action@main
         id: readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
