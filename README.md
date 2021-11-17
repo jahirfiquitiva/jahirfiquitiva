@@ -68,5 +68,6 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <br/>
 <ol>
 <li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/0.1">New Tag</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/old-next-web/releases/tag/test">test</a>&quot; in <a href="https://github.com/jahirfiquitiva/old-next-web">jahirfiquitiva/old-next-web</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/profile-readme">jahirfiquitiva/profile-readme</a> from <a href="https://github.com/actions-js/profile-readme">actions-js/profile-readme</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1">#1</a> in <a href="https://github.com/jahirfiquitiva/jahirfiquitiva">jahirfiquitiva/jahirfiquitiva</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahirfiquitiva/pull/1">#1</a> in <a href="https://github.com/jahirfiquitiva/jahirfiquitiva">jahirfiquitiva/jahirfiquitiva</a></li>
+<a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a>
 </ol>
 </details>
