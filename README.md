@@ -40,7 +40,10 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
+<img src="https://img.shields.io/badge/styled%20components-%23D36AC2.svg?&style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
+<img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" alt="Tailwind"/>
 <img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
 </details>
@@ -67,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/cedricdelpoux/react-responsive-masonry/issues/32">#32</a> in <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li><li>💪 Opened PR <a href="https://github.com/cedricdelpoux/react-responsive-masonry/pull/57">#57</a> in <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/13">#13</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/react-responsive-masonry">jahirfiquitiva/react-responsive-masonry</a> from <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/13">#13</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li>
+<li>❗️ Closed issue <a href="https://github.com/ben-rogerson/twin.macro/issues/575">#575</a> in <a href="https://github.com/ben-rogerson/twin.macro">ben-rogerson/twin.macro</a></li><li>🗣 Commented on <a href="https://github.com/cedricdelpoux/react-responsive-masonry/issues/32">#32</a> in <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li><li>💪 Opened PR <a href="https://github.com/cedricdelpoux/react-responsive-masonry/pull/57">#57</a> in <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/13">#13</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/react-responsive-masonry">jahirfiquitiva/react-responsive-masonry</a> from <a href="https://github.com/cedricdelpoux/react-responsive-masonry">cedricdelpoux/react-responsive-masonry</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
