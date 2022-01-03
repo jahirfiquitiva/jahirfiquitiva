@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">Yet another redesign</a></li><li><a href="undefined">Building my website from scratch</a></li><li><a href="undefined">Redesigning my website</a></li><li><a href="undefined">Publishing a React component package on npm</a></li>
+<li><a href="undefined">Things you can do to get started with development</a></li><li><a href="undefined">Yet another redesign</a></li><li><a href="undefined">Building my website from scratch</a></li><li><a href="undefined">Redesigning my website</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/Frames/issues/232">#232</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/232">#232</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li>
+<li>🗣 Commented on <a href="https://github.com/modulz/stitches/issues/653">#653</a> in <a href="https://github.com/modulz/stitches">modulz/stitches</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/Frames/issues/232">#232</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/231">#231</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
