@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">Things you can do to get started with development</a></li><li><a href="undefined">Yet another redesign</a></li><li><a href="undefined">Building my website from scratch</a></li><li><a href="undefined">Redesigning my website</a></li>
+<li><a href="undefined">Building my website from scratch – 2022 Edition</a></li><li><a href="undefined">What do I use?</a></li><li><a href="undefined">Things you can do to get started with development</a></li><li><a href="undefined">Yet another redesign</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🍴 Forked <a href="https://github.com/jahirfiquitiva/cors-anywhere">jahirfiquitiva/cors-anywhere</a> from <a href="https://github.com/Rob--W/cors-anywhere">Rob--W/cors-anywhere</a></li><li>❗️ Opened issue <a href="https://github.com/instaloader/instaloader/issues/1651">#1651</a> in <a href="https://github.com/instaloader/instaloader">instaloader/instaloader</a></li><li>❗️ Opened issue <a href="https://github.com/homebridge/homebridge/issues/3194">#3194</a> in <a href="https://github.com/homebridge/homebridge">homebridge/homebridge</a></li><li>❗️ Opened issue <a href="https://github.com/lucide-icons/lucide/issues/772">#772</a> in <a href="https://github.com/lucide-icons/lucide">lucide-icons/lucide</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/31">#31</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li>
+<li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/10">#10</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/10">#10</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❌ Closed PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/31">#31</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/cors-anywhere">jahirfiquitiva/cors-anywhere</a> from <a href="https://github.com/Rob--W/cors-anywhere">Rob--W/cors-anywhere</a></li><li>❗️ Opened issue <a href="https://github.com/instaloader/instaloader/issues/1651">#1651</a> in <a href="https://github.com/instaloader/instaloader">instaloader/instaloader</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
