@@ -51,7 +51,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-
+<li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li><li><a href="undefined">Building my website from scratch – 2022 Edition</a></li><li><a href="undefined">What do I use?</a></li><li><a href="undefined">Things you can do to get started with development</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
