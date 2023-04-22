@@ -51,7 +51,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li><li><a href="undefined">Building my website from scratch – 2022 Edition</a></li><li><a href="undefined">What do I use?</a></li><li><a href="undefined">Things you can do to get started with development</a></li>
+<li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li><li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li><li><a href="undefined">Building my website from scratch – 2022 Edition</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -69,7 +69,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/jahir.dev/releases/tag/v12">v12</a>&quot; in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🗣 Commented on <a href="https://github.com/callstack/react-native-paper/issues/3827">#3827</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Kuper/issues/78">#78</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Kuper/issues/78">#78</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>❗️ Opened issue <a href="https://github.com/raycast/extensions/issues/6038">#6038</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li>
+<li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/50">#50</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/50">#50</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/jahir.dev/releases/tag/v12">v12</a>&quot; in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🗣 Commented on <a href="https://github.com/callstack/react-native-paper/issues/3827">#3827</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Kuper/issues/78">#78</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
