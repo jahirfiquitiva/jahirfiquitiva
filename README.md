@@ -51,7 +51,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li><li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li><li><a href="undefined">Building my website from scratch – 2022 Edition</a></li>
+<li><a href="undefined">People and websites that inspire (me)</a></li><li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li><li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -69,7 +69,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/antfu/sponsorkit/issues/21">#21</a> in <a href="https://github.com/antfu/sponsorkit">antfu/sponsorkit</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/44">#44</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/Blueprint/pull/306">#306</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/Blueprint/pull/306">#306</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>💪 Opened PR <a href="https://github.com/callstack/react-native-paper/pull/3840">#3840</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li>
+<li>💪 Opened PR <a href="https://github.com/Evavic44/portfolio-ideas/pull/268">#268</a> in <a href="https://github.com/Evavic44/portfolio-ideas">Evavic44/portfolio-ideas</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/portfolio-ideas">jahirfiquitiva/portfolio-ideas</a> from <a href="https://github.com/Evavic44/portfolio-ideas">Evavic44/portfolio-ideas</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/53">#53</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/53">#53</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🗣 Commented on <a href="https://github.com/antfu/sponsorkit/issues/21">#21</a> in <a href="https://github.com/antfu/sponsorkit">antfu/sponsorkit</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
