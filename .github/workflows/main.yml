@@ -12,7 +12,7 @@ jobs:
     name: Job to update readme
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Update readme with activity and feed
         uses: jahirfiquitiva/profile-readme-action@main
         id: readme
