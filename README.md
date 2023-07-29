@@ -69,7 +69,15 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Closed issue <a href="https://github.com/javiersantos/PiracyChecker/issues/112">#112</a> in <a href="https://github.com/javiersantos/PiracyChecker">javiersantos/PiracyChecker</a></li><li>🗣 Commented on <a href="https://github.com/javiersantos/PiracyChecker/issues/112">#112</a> in <a href="https://github.com/javiersantos/PiracyChecker">javiersantos/PiracyChecker</a></li><li>🗣 Commented on <a href="https://github.com/nimsandu/spicetify-bloom/issues/295">#295</a> in <a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></li><li>🗣 Commented on <a href="https://github.com/nimsandu/spicetify-bloom/issues/296">#296</a> in <a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></li><li>🗣 Commented on <a href="https://github.com/nimsandu/spicetify-bloom/issues/296">#296</a> in <a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></li>
+<li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/262">#262</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/262">#262</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>❗️ Closed issue <a href="https://github.com/javiersantos/PiracyChecker/issues/112">#112</a> in <a href="https://github.com/javiersantos/PiracyChecker">javiersantos/PiracyChecker</a></li><li>🗣 Commented on <a href="https://github.com/javiersantos/PiracyChecker/issues/112">#112</a> in <a href="https://github.com/javiersantos/PiracyChecker">javiersantos/PiracyChecker</a></li><li>🗣 Commented on <a href="https://github.com/nimsandu/spicetify-bloom/issues/295">#295</a> in <a href="https://github.com/nimsandu/spicetify-bloom">nimsandu/spicetify-bloom</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
+</details>
+
+<details>
+<summary>💿&nbsp;&nbsp;&nbsp;<b>Recently played on Spotify</b></summary>
+<br/>
+<a href="https://tunez.jahir.dev" target="_blank">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=jahir-fiquitiva&unique=true" alt="Recently played songs on Spotify" />
+</a>
 </details>
