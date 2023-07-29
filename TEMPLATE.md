@@ -73,3 +73,11 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 		<li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 	</ol>
 </details>
+
+<details>
+	<summary>💿&nbsp;&nbsp;&nbsp;<b>Recently played on Spotify</b></summary>
+	<br/>
+	<a href="https://tunez.jahir.dev" target="_blank">
+		<img src="https://spotify-recently-played-readme.vercel.app/api?user=jahir-fiquitiva&unique=true" alt="Recently played songs on Spotify" />
+	</a>
+</details>
