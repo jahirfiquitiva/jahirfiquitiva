@@ -69,7 +69,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/55">#55</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❗️ Opened issue <a href="https://github.com/callstack/react-native-paper/issues/4011">#4011</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Kuper/issues/85">#85</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Blueprint/releases/tag/2.3.7">v 2.3.7</a>&quot; in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/Blueprint/pull/308">#308</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
+<li>❌ Closed PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/56">#56</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/55">#55</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❗️ Opened issue <a href="https://github.com/callstack/react-native-paper/issues/4011">#4011</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Kuper/issues/85">#85</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Blueprint/releases/tag/2.3.7">v 2.3.7</a>&quot; in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
@@ -77,7 +77,13 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 <summary>💿&nbsp;&nbsp;&nbsp;<b>Recently played on Spotify</b></summary>
 <br/>
+<div>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=jahir-fiquitiva&redirect=true" target="_blank">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=jahir-fiquitiva&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=3867d6&bar_color_cover=true" alt="Song currently playing on Spotify" />
+</a>
+<br/>
 <a href="https://tunez.jahir.dev" target="_blank">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=jahir-fiquitiva&unique=true" alt="Recently played songs on Spotify" />
 </a>
+</div>
 </details>
