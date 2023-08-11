@@ -75,7 +75,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 </details>
 
 <details>
-<summary>💿&nbsp;&nbsp;&nbsp;<b>Recently played on Spotify</b></summary>
+<summary>💿&nbsp;&nbsp;&nbsp;<b>Spotify Activity</b></summary>
 <br/>
 <div>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=jahir-fiquitiva&redirect=true" target="_blank">
