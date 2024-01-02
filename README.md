@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">People and websites that inspire (me)</a></li><li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li><li><a href="undefined">Create a Next.js API Route to retrieve GitHub Sponsors data</a></li>
+<li><a href="undefined">A fresh start</a></li><li><a href="undefined">People and websites that inspire (me)</a></li><li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
