@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">A fresh start</a></li><li><a href="undefined">People and websites that inspire (me)</a></li><li><a href="undefined">23 changes to my website in 2023</a></li><li><a href="undefined">Configure ESLint and Prettier to work together</a></li>
+<li><a href="undefined">Adding reading time to Astro without the hassle</a></li><li><a href="undefined">A fresh start</a></li><li><a href="undefined">People and websites that inspire (me)</a></li><li><a href="undefined">23 changes to my website in 2023</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Opened issue <a href="https://github.com/callstack/react-native-paper/issues/4255">#4255</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/64">#64</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/64">#64</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/Kuper/pull/90">#90</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Frames/releases/tag/3.6.0">v3.6.0</a>&quot; in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li>
+<li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/65">#65</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/65">#65</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❗️ Opened issue <a href="https://github.com/callstack/react-native-paper/issues/4255">#4255</a> in <a href="https://github.com/callstack/react-native-paper">callstack/react-native-paper</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/64">#64</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/jahir.dev/issues/64">#64</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
