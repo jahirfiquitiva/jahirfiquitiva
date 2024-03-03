@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li><li><a href="undefined">Adding reading time to Astro without the hassle</a></li><li><a href="undefined">A fresh start</a></li>
+<li><a href="undefined">How Tailwind CSS growed upon me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li><li><a href="undefined">Adding reading time to Astro without the hassle</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>💪 Opened PR <a href="https://github.com/arnvgh/www/pull/43">#43</a> in <a href="https://github.com/arnvgh/www">arnvgh/www</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/www">jahirfiquitiva/www</a> from <a href="https://github.com/arnvgh/www">arnvgh/www</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/79">#79</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/79">#79</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/Steve-Fenton/stevefenton.co.uk/pull/43">#43</a> in <a href="https://github.com/Steve-Fenton/stevefenton.co.uk">Steve-Fenton/stevefenton.co.uk</a></li>
+<li>🗣 Commented on <a href="https://github.com/vercel/react-tweet/issues/162">#162</a> in <a href="https://github.com/vercel/react-tweet">vercel/react-tweet</a></li><li>💪 Opened PR <a href="https://github.com/arnvgh/www/pull/43">#43</a> in <a href="https://github.com/arnvgh/www">arnvgh/www</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/www">jahirfiquitiva/www</a> from <a href="https://github.com/arnvgh/www">arnvgh/www</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/79">#79</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li><li>💪 Opened PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/79">#79</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
