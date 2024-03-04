@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">How Tailwind CSS growed upon me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li><li><a href="undefined">Adding reading time to Astro without the hassle</a></li>
+<li><a href="undefined">How Tailwind CSS grew on me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li><li><a href="undefined">Adding reading time to Astro without the hassle</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
