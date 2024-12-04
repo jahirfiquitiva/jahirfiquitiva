@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-
+<li>🗣 Commented on <a href="https://github.com/infinitered/reactotron/issues/1466">#1466</a> in <a href="https://github.com/infinitered/reactotron">infinitered/reactotron</a></li><li>❗️ Closed issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/322">#322</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Blueprint/issues/322">#322</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>💪 Opened PR <a href="https://github.com/kyswtn/vscode-vercel/pull/6">#6</a> in <a href="https://github.com/kyswtn/vscode-vercel">kyswtn/vscode-vercel</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/vscode-vercel">jahirfiquitiva/vscode-vercel</a> from <a href="https://github.com/kyswtn/vscode-vercel">kyswtn/vscode-vercel</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
