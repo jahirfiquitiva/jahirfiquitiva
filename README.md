@@ -52,7 +52,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">How Tailwind CSS grew on me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li><li><a href="undefined">Adding reading time to Astro without the hassle</a></li>
+<li><a href="undefined">Create a contact form in Next.js with Resend and Valibot</a></li><li><a href="undefined">How Tailwind CSS grew on me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li><li><a href="undefined">Improving the User Experience of Autoplay Videos</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -70,7 +70,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/blogscroll/blogscroll/issues/480">#480</a> in <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li><li>💪 Opened PR <a href="https://github.com/blogscroll/blogscroll/pull/480">#480</a> in <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/blogscroll">jahirfiquitiva/blogscroll</a> from <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li><li>🗣 Commented on <a href="https://github.com/waydabber/BetterDisplay/issues/3023">#3023</a> in <a href="https://github.com/waydabber/BetterDisplay">waydabber/BetterDisplay</a></li><li>🎉 Merged PR <a href="https://github.com/jahirfiquitiva/jahir.dev/pull/85">#85</a> in <a href="https://github.com/jahirfiquitiva/jahir.dev">jahirfiquitiva/jahir.dev</a></li>
+<li>💪 Opened PR <a href="https://github.com/alexcarpenter/alexcarpenter.me/pull/162">#162</a> in <a href="https://github.com/alexcarpenter/alexcarpenter.me">alexcarpenter/alexcarpenter.me</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/alexcarpenter.me">jahirfiquitiva/alexcarpenter.me</a> from <a href="https://github.com/alexcarpenter/alexcarpenter.me">alexcarpenter/alexcarpenter.me</a></li><li>🗣 Commented on <a href="https://github.com/blogscroll/blogscroll/issues/480">#480</a> in <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li><li>💪 Opened PR <a href="https://github.com/blogscroll/blogscroll/pull/480">#480</a> in <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/blogscroll">jahirfiquitiva/blogscroll</a> from <a href="https://github.com/blogscroll/blogscroll">blogscroll/blogscroll</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
