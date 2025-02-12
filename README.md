@@ -79,8 +79,8 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>💿&nbsp;&nbsp;&nbsp;<b>Spotify Activity</b></summary>
 <br/>
 <div>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=jahir-fiquitiva&redirect=true" target="_blank">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=jahir-fiquitiva&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=3867d6&bar_color_cover=true" alt="Song currently playing on Spotify" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jahir-fiquitiva&redirect=true" target="_blank">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jahir-fiquitiva&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=3867d6&bar_color_cover=true" alt="Song currently playing on Spotify" />
 </a>
 <br/>
 <a href="https://tunez.jahir.dev" target="_blank">
