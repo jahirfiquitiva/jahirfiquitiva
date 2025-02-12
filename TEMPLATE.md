@@ -12,9 +12,10 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 **You can find me on:**
 
 [<img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOpJREFUeNpiYBjW4P///wpA3A/E5/9jgvNQOQVyDe//TzzoJ8VgATQXv0di34dibHIgPQLEWIBs+HwgTkDiO0AxDARA1RBnCVqwJEDF1sM0Y3HEeig/gWBwQSMU7nKk4EKxEN1AJDFknyhQGqlERzoTkh0OVEzhDth8AAMFSJEJ8/Z+LOr3Q+UakMQC0IOOBRbWSHovMDIyHoCK+5Po8g/oAky0Lg3AFgBdjGwzsm8+kmieALEZjFJwHlsQHaBiyBwgKqOhpa5+pNTVj6X4OI83o9G8qMBRkpJc2A18cU3zCoduVeaQAQABBgBb2mB8ePpZSAAAAABJRU5ErkJggg==">](https://jahir.dev/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/>](https://twitter.com/jahirfiquitiva)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jahirfiquitiva/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/jahirfiquitiva)
+[<img src="https://img.shields.io/badge/bluesky-%230085FF?&style=for-the-badge&logo=bluesky&logoColor=white"/>](https://bsky.jahir.dev/)
 [<img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jahirfiquitiva/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAANNJREFUSEvtVdEOwiAQa79M92Xql4lfdqaMI4zoAiiLD94LCWPX610LxOTg5Pw4FsDMzgAuALSORABwI6k1xoaBmd0/SO45A8nlHYClD7GSBCZGXUEyF14zcADRvCrrCKsWgMX7aGYC6mLRAqDi1aLTyExaAbr6Xh5uAVD1LjWXbbknGUstIbVww7QJ4MWQ81xqask/kviq/UEV1YNXrsiiVts3ALJf3FSl2v4Acvfvt0jKeCTV+TUhH3j4Xnkue2FvyNOv67kPzvDls/PjsW/yDAZP7I/NGdXw2z0AAAAASUVORK5CYII="/>](https://www.linkedin.com/in/jahirfiquitiva/)
 
 <!--
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/jahirdotdev/)
