@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Blueprint/issues/324">#324</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Blueprint/issues/323">#323</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>💪 Opened PR <a href="https://github.com/TanStack/form/pull/1342">#1342</a> in <a href="https://github.com/TanStack/form">TanStack/form</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/form">jahirfiquitiva/form</a> from <a href="https://github.com/TanStack/form">TanStack/form</a></li><li>❗️ Opened issue <a href="https://github.com/TanStack/form/issues/1341">#1341</a> in <a href="https://github.com/TanStack/form">TanStack/form</a></li>
+<li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Blueprint/issues/324">#324</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Blueprint/issues/323">#323</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
