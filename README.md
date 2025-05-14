@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-
+<li>🎉 Merged PR <a href="https://github.com/boyaca-dev/code-of-conduct/pull/5">#5</a> in <a href="https://github.com/boyaca-dev/code-of-conduct">boyaca-dev/code-of-conduct</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
