@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/272">#272</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/271">#271</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/271">#271</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>❗️ Reopened issue <a href="https://github.com/jahirfiquitiva/Frames/issues/271">#271</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li><li>🗣 Commented on <a href="https://github.com/jahirfiquitiva/Frames/issues/271">#271</a> in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li>
+
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
