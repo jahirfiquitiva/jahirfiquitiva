@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Opened issue <a href="https://github.com/delucis/astro-embed/issues/192">#192</a> in <a href="https://github.com/delucis/astro-embed">delucis/astro-embed</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Blueprint/releases/tag/2.4.5">v2.4.5</a>&quot; in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Kuper/releases/tag/2.5.5">v2.5.5</a>&quot; in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>📦 Released &quot;<a href="https://github.com/jahirfiquitiva/Frames/releases/tag/3.6.5">v3.6.5</a>&quot; in <a href="https://github.com/jahirfiquitiva/Frames">jahirfiquitiva/Frames</a></li>
+<li>❗️ Opened issue <a href="https://github.com/delucis/astro-embed/issues/192">#192</a> in <a href="https://github.com/delucis/astro-embed">delucis/astro-embed</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
