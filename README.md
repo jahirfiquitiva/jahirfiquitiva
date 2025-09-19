@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>🗣 Commented on <a href="https://github.com/joshnuss/shiki-transformer-copy-button/issues/6">#6</a> in <a href="https://github.com/joshnuss/shiki-transformer-copy-button">joshnuss/shiki-transformer-copy-button</a></li>
+
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
