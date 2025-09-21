@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-
+<li>❗️ Reopened issue <a href="https://github.com/jahirfiquitiva/Kuper/issues/95">#95</a> in <a href="https://github.com/jahirfiquitiva/Kuper">jahirfiquitiva/Kuper</a></li><li>❗️ Reopened issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/314">#314</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>❗️ Reopened issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/305">#305</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
