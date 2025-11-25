@@ -66,7 +66,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <details>
 <summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Statistics</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
+<img src="https://jf-gh-stats.vercel.app/api?username=jahirfiquitiva&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top or Most Used Languages" align="top"/>
 </details>
 
@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Labeled issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Labeled issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Opened issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Opened issue <a href="https://github.com/wn-na/react-native-capture-protection/issues/117">#117</a> in <a href="https://github.com/wn-na/react-native-capture-protection">wn-na/react-native-capture-protection</a></li><li>❗️ Opened issue <a href="https://github.com/FaridSafi/react-native-gifted-chat/issues/2673">#2673</a> in <a href="https://github.com/FaridSafi/react-native-gifted-chat">FaridSafi/react-native-gifted-chat</a></li>
+<li>🍴 Forked <a href="https://github.com/jahirfiquitiva/github-readme-stats">jahirfiquitiva/github-readme-stats</a> from <a href="https://github.com/jahirfiquitiva/github-readme-stats">jahirfiquitiva/github-readme-stats</a></li><li>❗️ Labeled issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Labeled issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Opened issue <a href="https://github.com/raycast/extensions/issues/23056">#23056</a> in <a href="https://github.com/raycast/extensions">raycast/extensions</a></li><li>❗️ Opened issue <a href="https://github.com/wn-na/react-native-capture-protection/issues/117">#117</a> in <a href="https://github.com/wn-na/react-native-capture-protection">wn-na/react-native-capture-protection</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
