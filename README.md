@@ -56,7 +56,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>📝&nbsp;&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
 <br/>
 <ul>
-<li><a href="undefined">This website is no longer open source (for now)</a></li><li><a href="undefined">Create a contact form in Next.js with Resend and Valibot</a></li><li><a href="undefined">How Tailwind CSS grew on me</a></li><li><a href="undefined">What&#39;s in my Raycast</a></li>
+<li><a href="undefined">How to correctly tint Safari&#39;s toolbar in iOS 26</a></li><li><a href="undefined">This website is no longer open source (for now)</a></li><li><a href="undefined">Create a contact form in Next.js with Resend and Valibot</a></li><li><a href="undefined">How Tailwind CSS grew on me</a></li>
 <li>
 <a href="https://jahir.dev/blog"><i>More…</i></a>
 </li>
@@ -74,7 +74,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>💪 Opened PR <a href="https://github.com/bradjasper/focus-extension/pull/21">#21</a> in <a href="https://github.com/bradjasper/focus-extension">bradjasper/focus-extension</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/focus-extension">jahirfiquitiva/focus-extension</a> from <a href="https://github.com/bradjasper/focus-extension">bradjasper/focus-extension</a></li><li>❗️ Labeled issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/336">#336</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>❗️ Unlabeled issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/336">#336</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li><li>❗️ Labeled issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/336">#336</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
+<li>❌ Merged PR <a href="https://github.com/joshnuss/shiki-transformer-copy-button/pull/6">#6</a> in <a href="https://github.com/joshnuss/shiki-transformer-copy-button">joshnuss/shiki-transformer-copy-button</a></li><li>🗣 Commented on <a href="https://github.com/joshnuss/shiki-transformer-copy-button/issues/6">#6</a> in <a href="https://github.com/joshnuss/shiki-transformer-copy-button">joshnuss/shiki-transformer-copy-button</a></li><li>💪 Opened PR <a href="https://github.com/bradjasper/focus-extension/pull/21">#21</a> in <a href="https://github.com/bradjasper/focus-extension">bradjasper/focus-extension</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/focus-extension">jahirfiquitiva/focus-extension</a> from <a href="https://github.com/bradjasper/focus-extension">bradjasper/focus-extension</a></li><li>❗️ Labeled issue <a href="https://github.com/jahirfiquitiva/Blueprint/issues/336">#336</a> in <a href="https://github.com/jahirfiquitiva/Blueprint">jahirfiquitiva/Blueprint</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
