@@ -16,11 +16,14 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 [<img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jahirfiquitiva/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/jahirfiquitiva)
 [<img src="https://img.shields.io/badge/bluesky-%230085FF?&style=for-the-badge&logo=bluesky&logoColor=white"/>](https://bsky.jahir.dev/)
-<a rel="me" href="https://mastodon.social/@jahirfiquitiva">
+<a data-proven="proven913583" rel="me" href="https://social.lol/@jf">
 <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%236364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white">
 </a>
 
 <!--
+<img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-%236364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white">
+</a>
+
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/jahirdotdev/)
 -->
 
