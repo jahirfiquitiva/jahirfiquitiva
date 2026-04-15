@@ -77,7 +77,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>💪 Opened PR <a href="https://github.com/formkit/auto-animate/pull/237">#237</a> in <a href="https://github.com/formkit/auto-animate">formkit/auto-animate</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/auto-animate">jahirfiquitiva/auto-animate</a> from <a href="https://github.com/formkit/auto-animate">formkit/auto-animate</a></li><li>🗣 Commented on <a href="https://github.com/zed-industries/zed/issues/21600">#21600</a> in <a href="https://github.com/zed-industries/zed">zed-industries/zed</a></li>
+<li>❗️ Labeled issue <a href="https://github.com/imputnet/helium/issues/1373">#1373</a> in <a href="https://github.com/imputnet/helium">imputnet/helium</a></li><li>❗️ Opened issue <a href="https://github.com/imputnet/helium/issues/1373">#1373</a> in <a href="https://github.com/imputnet/helium">imputnet/helium</a></li><li>💪 Opened PR <a href="https://github.com/formkit/auto-animate/pull/237">#237</a> in <a href="https://github.com/formkit/auto-animate">formkit/auto-animate</a></li><li>🍴 Forked <a href="https://github.com/jahirfiquitiva/auto-animate">jahirfiquitiva/auto-animate</a> from <a href="https://github.com/formkit/auto-animate">formkit/auto-animate</a></li><li>🗣 Commented on <a href="https://github.com/zed-industries/zed/issues/21600">#21600</a> in <a href="https://github.com/zed-industries/zed">zed-industries/zed</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
