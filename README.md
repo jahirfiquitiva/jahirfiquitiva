@@ -77,7 +77,7 @@ If you are interested in knowing which tools I use, you can [check out my **uses
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Activity</b></summary>
 <br/>
 <ol>
-<li>❗️ Opened issue <a href="https://github.com/jimeh/vscode-glaze/issues/135">#135</a> in <a href="https://github.com/jimeh/vscode-glaze">jimeh/vscode-glaze</a></li><li>🗣 Commented on <a href="https://github.com/Remix-Design/LaunchOS/issues/3">#3</a> in <a href="https://github.com/Remix-Design/LaunchOS">Remix-Design/LaunchOS</a></li>
+<li>❗️ Opened issue <a href="https://github.com/jimeh/vscode-glaze/issues/135">#135</a> in <a href="https://github.com/jimeh/vscode-glaze">jimeh/vscode-glaze</a></li>
 <li><a href="https://gitstalk.netlify.app/jahirfiquitiva"><i>More…</i></a></li>
 </ol>
 </details>
